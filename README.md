@@ -32,11 +32,15 @@
 
 ## Input:
 
+![image](https://github.com/SadhanaShreee/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144517664/244b9e4e-e309-4467-a7cb-9f809ea9e25d)
+
 ### Output:
 
+![image](https://github.com/SadhanaShreee/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144517664/dccd474d-e1d6-40c1-ad6b-daf464708564)
 
-### Name:
-### Register Number:
+
+### Name: SADHANA SHREE B
+### Register Number: 212223230177
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
